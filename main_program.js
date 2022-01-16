@@ -23,5 +23,6 @@ console.log('\nMy Wallet har nu: ', testCoin.getBalenceOfAdress(myWalletAddress)
 console.log('Test Wallet har nu: ', testCoin.getBalenceOfAdress('test-wallet'));
 
 console.log('\nBlockchain valid?', testCoin.isChainValid() ? 'Yes' : 'No');
+console.log('!! Fejl i dette !!')
 console.log('########################');
 console.log('')

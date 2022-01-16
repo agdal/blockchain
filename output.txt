@@ -1,0 +1,16 @@
+########################
+
+Mining started...
+Block mined: 00b97f4174557dd45d84fa6199d25b7cfbb281f95d092ea3e8daedcfa0814bd5
+Block sucessfully mined!
+
+Mining started...
+Block mined: 006118f92137c91e083dc34151bd85c73b45d44fec2de6c2b024434b1eb88354
+Block sucessfully mined!
+
+My Wallet har nu:  290  
+Test Wallet har nu:  10 
+
+Blockchain valid? No    
+!! Fejl i dette !!
+########################
